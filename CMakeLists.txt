@@ -3,7 +3,7 @@ project(lab6)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(lab4 lab6-1.cpp
+add_executable(lab6-1.cpp
         lab6-2.cpp
         lab6-3.cpp
         lab6-4.cpp
